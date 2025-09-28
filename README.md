@@ -6,17 +6,17 @@ A comprehensive Exploratory Data Analysis (EDA) project exploring Airbnb listing
 
 ## Key Questions Explored
 
-🔹 This project answers fundamental questions to understand the NYC Airbnb market dynamics:
+- This project answers fundamental questions to understand the NYC Airbnb market dynamics:
 
-🔹 Pricing Trends: Which neighborhood groups have the highest average listing prices, and is there a correlation between the price and the service fee?
+- Pricing Trends: Which neighborhood groups have the highest average listing prices, and is there a correlation between the price and the service fee?
 
-🔹 Host Performance: Who are the top 10 hosts based on listing count, and are hosts with verified identities more likely to receive positive reviews?
+- Host Performance: Who are the top 10 hosts based on listing count, and are hosts with verified identities more likely to receive positive reviews?
 
-🔹 Market Distribution: What are the different property types in the dataset, and which neighborhood group has the highest number of listings?
+- Market Distribution: What are the different property types in the dataset, and which neighborhood group has the highest number of listings?
 
-🔹 Review and Availability: What is the average review rating, and does it vary by neighborhood group and room type?
+- Review and Availability: What is the average review rating, and does it vary by neighborhood group and room type?
 
-🔹 Property Age: Is there a relationship between the construction year of a property and its price?
+- Property Age: Is there a relationship between the construction year of a property and its price?
 ## Tech Stack
 
 This project is built using standard Python data science libraries:
